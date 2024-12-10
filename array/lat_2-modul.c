@@ -8,7 +8,7 @@ int main()
     int baris, kolom, matriks[3][4];
     system("CLS");
 
-     input elemen secara Row Major Order
+    // input elemen secara Row Major Order
     printf("Input elemen Array: \n");
     for(baris = 0; baris < 5; baris++)
     {
@@ -20,7 +20,7 @@ int main()
         printf("\n");
     }
 
-     tampilan elemen array secara Row Major Order
+    // tampilan elemen array secara Row Major Order
     printf("Isi array: \n");
     for(baris = 0; baris < 3; baris++)
     {
